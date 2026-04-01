@@ -1,0 +1,15 @@
+@charset "UTF-8";
+h1{
+	color:red;
+	text-align: center;
+	text-decoration: underline;
+	
+}
+form input{
+	display: block;
+	
+}
+button{
+	color: blue;
+}
+

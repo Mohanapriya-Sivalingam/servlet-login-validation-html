@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<h1>Sign Up here</h1>
+<form action="Signup" method = "post" onsubmit="return handleSubmit()">
+<label>Name : </label>
+<input type="text" name="username" id="username">
+<label>Email : </label>
+<input type="text" name="email" id="email">
+<label>Password: </label>
+<input type="text" name="password" id="password">
+<label>Confirm Password: </label>
+<input type="text" name="cpassword" id ="cpassword">
+<button >SignUp</button>
+</form>
+<p id="formValidationResult"></p>
+<a href="./login.html">Already have an account? Login Here</a>
+<a href="./index.html">Home</a>
+
+<script src="./Signup.js"></script>
+</body>
+</html>
