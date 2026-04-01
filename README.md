@@ -14,7 +14,7 @@
 
 -Import the sql file
 
-- bash```Servelet_MyappDB.sql
+-```Servelet_MyappDB.sql
 ```
 
 ---
