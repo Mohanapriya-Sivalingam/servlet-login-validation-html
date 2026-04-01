@@ -10,6 +10,15 @@
 
 ---
 
+## Database
+
+-Import the sql file
+
+- bash```Servelet_MyappDB.sql
+```
+
+---
+
 ## 👩‍🏫 Author
 
 # Mohanapriya Sivalingam
