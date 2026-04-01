@@ -10,12 +10,12 @@
 
 ---
 
-## Database
+## 📊 Database
 
--Import the sql file
+- Import the sql file
 
--```Servelet_MyappDB.sql
-```
+- Servelet_MyappDB.sql
+
 
 ---
 
